@@ -1,7 +1,6 @@
 JsonParser
 ==========
 
-<<<<<<< .mine
 Small JSON parser implementation for .NET 3.0 or later
 
 # What's this?
@@ -134,4 +133,3 @@ var test = JsonParser.JsonWalk<object[]>(obj2, "test", null);
 var dict = (Dictionary<string, object>)obj2;
 var test2 = dict["test"];
 ```
->>>>>>> .r2
